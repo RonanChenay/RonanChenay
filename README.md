@@ -7,4 +7,4 @@
 - 💬 " Avec le code on peux Améliorer le Monde"
 - 📫 DM Moi sur Instagram pour une Colab !!!
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"width="200" height="300">  />
+<img width="10 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
